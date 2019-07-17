@@ -1,0 +1,11 @@
+[package]
+name = "mso-tri-state"
+version = "0.1.0"
+authors = ["The6P4C <watsonjcampbell@gmail.com>"]
+edition = "2018"
+description = "Fearless booleans"
+license = "WTFPL"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
